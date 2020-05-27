@@ -1,0 +1,17 @@
+{
+  "name": "health-middleware",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@module-federation/propriatery-tools": "git+ssh://git@github.com:module-federation/proprietary-tools.git",
+    "webpack": "^5.0.0-beta.16",
+    "webpack-cli": "^3.3.11"
+  }
+}
